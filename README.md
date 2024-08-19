@@ -1,1 +1,1 @@
-# Jewellery-Landing-Page
+# jewellery-landing-page
